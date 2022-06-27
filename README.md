@@ -1,4 +1,4 @@
-# Kaggle-Titanic-Visulization-
+## Kaggle-Titanic-Visulization-
 
 This is a Tableau exrecise on Titanic Survival Dataset from Kaggle.
 
